@@ -11,33 +11,16 @@
  */
 class Solution {
 public:
-
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        if (root == nullptr) {
-            return {-2};
-        }
-        ans.push_back(root->val);
-        
-        vector<int> left = preorderTraversal(root->left);
-        vector<int> right = preorderTraversal(root->right);
-
-        ans.insert(ans.end(), left.begin(), left.end());
-        ans.insert(ans.end(), right.begin(), right.end());
-
-        return ans;
-    }
-
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        vector<int> ans1 = preorderTraversal(p);
-        vector<int> ans2 = preorderTraversal(q);
-
-        for(int i = 0; i < ans1.size(); i++){
-            if(ans1[i]!=ans2[i]){
-                return false;
-                break;
-            }
+        if (p == nullptr && q == nullptr) {
+            return true;
         }
-        return true;
+        if (p == nullptr || q == nullptr) {
+            return false;
+        }
+        if (p->val != q->val) {
+            return false;
+        }
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     }
 };
