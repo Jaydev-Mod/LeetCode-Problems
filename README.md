@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
