@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -223,4 +224,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
