@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
