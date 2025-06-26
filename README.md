@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
 | ------- |
