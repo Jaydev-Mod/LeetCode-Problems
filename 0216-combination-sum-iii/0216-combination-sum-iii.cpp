@@ -1,26 +1,25 @@
 class Solution {
 public:
     void combinations(int k, int n, int ind, int sum, vector<int>& arr,
-                      set<vector<int>>& curr) {
+                      vector<vector<int>>& ans) {
         if (k == 0) {
             if (sum == n) {
-                curr.insert(arr);
+                ans.push_back(arr);
             }
             return;
         }
-        if (ind == 10) return;
+        if (k == 0 || n <= 0 || ind > 9) return;
 
         arr.push_back(ind);
-        combinations(k-1, n, ind+1, sum+ind, arr, curr);
+        combinations(k-1, n, ind+1, sum+ind, arr, ans);
         arr.pop_back();
-        combinations(k, n, ind+1, sum, arr, curr);
+        combinations(k, n, ind+1, sum, arr, ans);
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
-        set<vector<int>> curr;
+        vector<vector<int>> ans;
         vector<int> arr;
-        combinations(k, n, 1, 0, arr, curr);
-        vector<vector<int>> ans(curr.begin(), curr.end());
+        combinations(k, n, 1, 0, arr, ans);
         return ans;
     }
 };
