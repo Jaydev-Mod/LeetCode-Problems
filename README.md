@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
