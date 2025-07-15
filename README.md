@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2886-faulty-keyboard](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
+| [3396-valid-word](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
