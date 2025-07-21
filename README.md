@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2886-faulty-keyboard](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
