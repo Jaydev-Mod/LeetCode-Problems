@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
