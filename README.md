@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
