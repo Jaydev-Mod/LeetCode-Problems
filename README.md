@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
