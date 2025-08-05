@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
