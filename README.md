@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0136-single-number) |
