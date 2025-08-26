@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
