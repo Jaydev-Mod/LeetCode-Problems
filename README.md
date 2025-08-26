@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -394,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
