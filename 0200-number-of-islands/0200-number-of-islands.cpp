@@ -2,23 +2,26 @@ class Solution {
 public:
     void bfs(int row, int col, vector<vector<char>>& grid,
              vector<vector<int>>& visited) {
-        visited[row][col] = 1;
-        queue<pair<int, int>> q;
-        q.push({row, col});
         int m = grid.size();
         int n = grid[0].size();
-        vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        int dirs[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+
+        queue<pair<int, int>> q;
+        q.push({row, col});
+        visited[row][col] = 1;
+
         while (!q.empty()) {
-            int row = q.front().first;
-            int col = q.front().second;
+            auto [r, c] = q.front();
             q.pop();
-            for (auto dir : directions) {
-                int nrow = row + dir.first;
-                int ncol = col + dir.second;
-                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
-                    grid[nrow][ncol] == '1' && !visited[nrow][ncol]) {
-                    visited[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
+
+            for (int i = 0; i < 4; i++) {
+                int nr = r + dirs[i][0];
+                int nc = c + dirs[i][1];
+
+                if (nr >= 0 && nr < m && nc >= 0 && nc < n &&
+                    grid[nr][nc] == '1' && !visited[nr][nc]) {
+                    visited[nr][nc] = 1;
+                    q.push({nr, nc});
                 }
             }
         }
