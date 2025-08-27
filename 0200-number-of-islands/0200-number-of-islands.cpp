@@ -1,14 +1,14 @@
 class Solution {
 public:
     void bfs(int row, int col, vector<vector<char>>& grid,
-             vector<vector<int>>& visited) {
+             vector<vector<bool>>& visited) {
         int m = grid.size();
         int n = grid[0].size();
         int dirs[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
         queue<pair<int, int>> q;
         q.push({row, col});
-        visited[row][col] = 1;
+        visited[row][col] = true;
 
         while (!q.empty()) {
             auto [r, c] = q.front();
@@ -20,7 +20,7 @@ public:
 
                 if (nr >= 0 && nr < m && nc >= 0 && nc < n &&
                     grid[nr][nc] == '1' && !visited[nr][nc]) {
-                    visited[nr][nc] = 1;
+                    visited[nr][nc] = true;
                     q.push({nr, nc});
                 }
             }
@@ -31,7 +31,7 @@ public:
         int count = 0;
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> visited(m, vector<int>(n, 0));
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
                 if (!visited[row][col] && grid[row][col] == '1') {
