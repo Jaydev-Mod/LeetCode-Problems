@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Queue
