@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
