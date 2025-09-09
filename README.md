@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -517,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
