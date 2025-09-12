@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2886-faulty-keyboard](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
