@@ -1,12 +1,23 @@
 class Solution {
 public:
+    int dpRecurr(vector<int>& dp, int n) {
+        if (n <= 1) {
+            return n;
+        }
+        if (dp[n] != -1) {
+            return dp[n];
+        }
+        dp[n] = dpRecurr(dp, n - 1) + dpRecurr(dp, n - 2);
+        return dp[n];
+    }
+
     int fib(int n) {
-        if(n == 0){
-            return 0;
+        if (n <= 1) {
+            return n;
         }
-        if(n == 1){
-            return 1;
-        }
-        return fib(n-1) + fib(n-2);
+        vector<int> dp(n + 1, -1);
+        dp[0] = 0;
+        dp[1] = 1;
+        return dpRecurr(dp, n);
     }
 };
