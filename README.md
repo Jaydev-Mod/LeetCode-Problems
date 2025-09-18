@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2886-faulty-keyboard](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 ## String Matching
 |  |
 | ------- |
@@ -558,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
