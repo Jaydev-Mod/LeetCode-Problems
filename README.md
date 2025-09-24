@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -571,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
