@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2050-count-good-numbers) |
