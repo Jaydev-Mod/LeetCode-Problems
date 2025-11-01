@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
