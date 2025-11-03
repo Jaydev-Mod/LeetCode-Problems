@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
