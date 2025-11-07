@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Math
 |  |
 | ------- |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Recursion
 |  |
 | ------- |
