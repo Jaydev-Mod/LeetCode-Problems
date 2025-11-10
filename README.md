@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
