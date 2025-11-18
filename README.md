@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0890-lemonade-change) |
