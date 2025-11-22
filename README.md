@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
