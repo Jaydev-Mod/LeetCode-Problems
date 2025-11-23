@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
