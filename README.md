@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0231-power-of-two) |
