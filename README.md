@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0636-exclusive-time-of-functions](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0733-flood-fill) |
