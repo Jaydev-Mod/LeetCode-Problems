@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
