@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Jaydev-Mod/LeetCode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
